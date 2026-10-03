@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }, { passive: true });
 
   // DEMO ONLY: replace this number with the client's WhatsApp number.
-  const WHATSAPP_NUMBER = '919876543210';
+  const WHATSAPP_NUMBER = '917051002210';
   const message = encodeURIComponent(
     'Hello Pinecrest Stay, I would like to enquire about a stay. Please share the room options, rates and next steps.'
   );
